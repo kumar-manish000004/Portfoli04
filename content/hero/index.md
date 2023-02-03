@@ -1,12 +1,12 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
+name: 'Maneesh Kumar Sinha'
 subtitle: 'I love exploring new things!'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm an India based software developer with a passion for utilizing machine learning algorithms to drive innovative solutions, I bring a unique combination of technical expertise and creative problem-solving to any project.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+Currently pursuing B.Tech in Computer Science Engineering.
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+Outside Study, I occasionally write technical contents for various sites. Off-screen, I volunteer at National Service Scheme (NSS).
