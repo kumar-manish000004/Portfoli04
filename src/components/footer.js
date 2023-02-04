@@ -100,14 +100,14 @@ const Footer = () => {
             ))}
         </StyledSocialList>
       </StyledSocial>
-      <StyledMetadata tabindex="-1">
-        <StyledGitHubLink
-          href="https://github.com/"
-          target="_blank"
-          rel="nofollow noopener noreferrer">
-          <div>
-            JS files by Brittany Chiang<br></br>
-          </div>
+//       <StyledMetadata tabindex="-1">
+//         <StyledGitHubLink
+//           href="https://github.com/"
+//           target="_blank"
+//           rel="nofollow noopener noreferrer">
+//           <div>
+//             JS files by Brittany Chiang<br></br>
+//           </div>
 
 //           {githubInfo.stars && githubInfo.forks && (
 //             <StyledGitHubInfo>
@@ -121,8 +121,8 @@ const Footer = () => {
 //               </span>
 //             </StyledGitHubInfo>
 //           )}
-        </StyledGitHubLink>
-      </StyledMetadata>
+//         </StyledGitHubLink>
+//       </StyledMetadata>
     </StyledContainer>
   );
 };
