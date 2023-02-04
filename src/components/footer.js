@@ -106,19 +106,18 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Chandrika Deb
+            
           </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
+                //<FormattedIcon name="" />
+                //<span>{githubInfo.stars.toLocaleString()}</span>
               </span>
               <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
+                //<FormattedIcon name="Fork" />
+                //<span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </StyledGitHubInfo>
           )}
