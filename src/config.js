@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Maneesh Kumar Sinha | Software Developer ',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Maneesh Sinha is a Upcoming Software Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Maneesh Kumar Sinha, Maneesh Kumar, kumar_manish04, kumar_manish,kumar_manish04, software developer, software engineer, face mask, face mask detection, jamshedpur, LPU, Lovely Proffesional University',
+  siteUrl: 'https://github.com/KUMAR-MANISH04',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
+  name: 'Maneesh Kumar Sinha',
   location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  email: '7050maneesh@gmail.com',
+  github: 'https://github.com/KUMAR-MANISH04',
+  twitterHandle: 'MANEESH84765536',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/KUMAR-MANISH04',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/mk-sinha/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      name: 'Leetcode',
+      url: 'https://leetcode.com/kumar_manish04/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/kumar_manish04',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/MANEESH84765536',
     },
   ],
 
@@ -42,7 +42,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Education',
       url: '/#jobs',
     },
     {
