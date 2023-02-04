@@ -102,26 +102,25 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href=""
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Chandrika Deb
+            JS files by Brittany Chiang<br></br>
           </div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+//           {githubInfo.stars && githubInfo.forks && (
+//             <StyledGitHubInfo>
+//               <span>
+//                 <FormattedIcon name="Star" />
+//                 <span>{githubInfo.stars.toLocaleString()}</span>
+//               </span>
+//               <span>
+//                 <FormattedIcon name="Fork" />
+//                 <span>{githubInfo.forks.toLocaleString()}</span>
+//               </span>
+//             </StyledGitHubInfo>
+//           )}
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
