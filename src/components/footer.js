@@ -109,18 +109,18 @@ const Footer = () => {
             
           </div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                //<FormattedIcon name="" />
-                //<span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                //<FormattedIcon name="Fork" />
-                //<span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+//           {githubInfo.stars && githubInfo.forks && (
+//             <StyledGitHubInfo>
+//               <span>
+//                 //<FormattedIcon name="" />
+//                 //<span>{githubInfo.stars.toLocaleString()}</span>
+//               </span>
+//               <span>
+//                 //<FormattedIcon name="Fork" />
+//                 //<span>{githubInfo.forks.toLocaleString()}</span>
+//               </span>
+//             </StyledGitHubInfo>
+//           )}
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
